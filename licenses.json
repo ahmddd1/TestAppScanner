@@ -1,6 +1,6 @@
 {
   "COUPON001": {
-    "status": "VALID",
+    "status": "STOP",
     "used_on": [],
     "max_activations": 3,
     "update_url": ""
