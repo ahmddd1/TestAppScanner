@@ -11,6 +11,12 @@
     "max_activations": 2,
     "update_url": ""
   },
+  "LAPTOPW2000": {
+    "status": "VALID",
+    "used_on": [],
+    "max_activations": 2,
+    "update_url": ""
+  },
   "COUPON003": {
     "status": "STOP",
     "used_on": [],
